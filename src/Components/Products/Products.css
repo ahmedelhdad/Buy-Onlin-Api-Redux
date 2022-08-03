@@ -1,0 +1,16 @@
+.title-products
+{
+    
+    border-bottom: 1px solid black;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.buy
+{
+    transition: 0.5s;
+}
+.buy:hover
+{
+    background-color: black !important;
+    color: white !important;
+}

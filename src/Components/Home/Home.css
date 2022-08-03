@@ -1,0 +1,10 @@
+
+
+.landing
+{
+    height: calc(100vh - 74px);
+}
+.landing .image
+{
+    height:  807px;
+}

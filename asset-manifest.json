@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Buy-Onlin-Api-Redux/static/css/main.62abfc9d.css",
+    "main.js": "/Buy-Onlin-Api-Redux/static/js/main.860b24ee.js",
+    "static/media/heroy.jpg": "/Buy-Onlin-Api-Redux/static/media/heroy.3363a47fecd5fb3d62fa.jpg",
+    "index.html": "/Buy-Onlin-Api-Redux/index.html",
+    "main.62abfc9d.css.map": "/Buy-Onlin-Api-Redux/static/css/main.62abfc9d.css.map",
+    "main.860b24ee.js.map": "/Buy-Onlin-Api-Redux/static/js/main.860b24ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62abfc9d.css",
+    "static/js/main.860b24ee.js"
+  ]
+}
